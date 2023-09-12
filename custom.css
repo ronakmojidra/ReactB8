@@ -1,0 +1,20 @@
+.customDiv{
+    margin: 3px;
+   min-height: 300px;
+   background-color: #eef4ed;
+   text-align: center;
+   font-size: large;
+   font-weight: bold;
+   color: #455d7a;
+   
+}
+.head{
+    text-align: center;
+    color: #455d7a;
+    
+}
+
+.customDiv2{
+    padding-top: 30px;
+    color: #f95959;
+}
